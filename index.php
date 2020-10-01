@@ -1,6 +1,6 @@
 <?php
-echo "<h1>Hello Magnus. Have a nice sunday<h1>";
-echo "Greetings:";
+echo "<h1>Hello Admin. Have a nice sunday<h1>";
+echo "Greetings: ";
 echo getenv("GREETINGS");
 echo "<br>";
 
